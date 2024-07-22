@@ -1,0 +1,19 @@
+{
+	"encrypted": true,
+	"data": {
+		"kdf": {
+			"name": "scrypt",
+			"params": {
+				"N": 65536,
+				"r": 8,
+				"p": 1
+			},
+			"salt": "GetIEMtSy1zgFzbxp5UohDB5++a71lGWZA8S3UZAvVc="
+		},
+		"cipher": {
+			"name": "nacl/secretbox",
+			"nonce": "I1NfbkEppm5mtuVKnYodU3NgFkTWXCvP"
+		},
+		"ciphertext": "rdaojOfIQLJvIpK6GUo4zaAOGoECO95JSVSpWbkq6TQJOYJHQJe+ZgUHa8yC7kTnXXIM6NpUzdEJ4fjm50gHxS/tzon/PbnO1rPE5ogNjoKjQdeM6WLBCbT6e59qnITWl1cYR7cObyZAv9PCQTHmKF4XiZSVx+v5kQu47dJ6kC+zT+nPeKJfOQh6d7i2oLqYsGSHyiiXPT7WDRj0RlfAja+2oTtq345O8MMh52Kkagth5A0H7DpNR6ZMF457lC4oEGvXyfTtfaqjxTTftsZDunaJ8h+CXip9UUbD5CDH1QAnK6tT4PV/dtBpbIxBjftVtG9xnPMCpaZrLz8+dWmCMPyPj1k/R3W91daGDRRoLAx1HqjZ7xgOP+YZPie7mTsjuZyROLyQEOFMGxNALizfp3x8QZoxepJ4whxhtsCMewteqkNaGjnrSTnO/BndljvgXbMlzvSjUtEZeC5ntYZuV2XRSWFbR50Aw+VkJ9Cpcfz1Ji4g4pfa"
+	}
+}
